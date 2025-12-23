@@ -1,0 +1,2 @@
+#define MAX_WRITE_SIZE 256
+#define MAX_JOB_FILE_NAME_SIZE 256
