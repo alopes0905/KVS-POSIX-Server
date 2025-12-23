@@ -113,11 +113,3 @@ rm -f /tmp/register_fifo
 ### Permissions
 Prefer using `/tmp` for FIFOs, or ensure the chosen directory is writable.
 
----
-
-
-## Author
-
-André Miguel Carvalho Lopes  
-- GitHub: https://github.com/alopes0905  
-- LinkedIn: https://www.linkedin.com/in/andre-carvalho-lopes
