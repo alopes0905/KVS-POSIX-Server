@@ -91,9 +91,7 @@ Notification format (typical):
 
 ---
 
-## Project layout (typical)
-
-This may vary slightly depending on your folder structure.
+## Project layout
 
 - `src/server/` — server implementation and entry point
 - `src/client/` — client implementation and entry point
